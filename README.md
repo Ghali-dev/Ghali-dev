@@ -1,12 +1,10 @@
 <div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" style="margin-right: 15px;"/>
   <p><strong>👋 Hi there!</strong><br> I'm a passionate <em>self-taught programmer</em> from Tunisia 🇹🇳. I enjoy programming and spend most of my free time learning or working on personal projects.</p>
 </div>
 
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" style="margin-right: 15px;"/>
   <p><strong>More about me:</strong><br>
     💻 I’m currently diving into web development, exploring <br>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
