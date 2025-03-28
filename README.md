@@ -13,6 +13,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <br>
     🌱 Learning never stops: I'm constantly improving and experimenting with new ideas in programming and computer science.<br>
     🚀 Goals: Build exciting and meaningful projects that showcase my growth and creativity!<br>
-    📬 Contacts: ghali.anas456@gmail.com
+
   </p>
 </div>
